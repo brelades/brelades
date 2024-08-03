@@ -60,26 +60,6 @@ Hi, I'm Vin!
 </p>
 <br/>
 
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/breladetm">
-		<img src="https://activity-graph.herokuapp.com/graph?username=breladetm&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="breladetm">
-	</a>
-</p>
-<br/>
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
-
-<p align="center">
-	<a href="https://github.com/breladetm">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breladetm&langs_count=8&layout=compact" alt="breladetm">
-	</a>
-	<br/>
-<br/>
-</p>
-<br/>
-
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
