@@ -6,9 +6,6 @@ Hi, I'm Vin!
 </h1>
 <p align="center">
 	<a href="https://github.com/breladetm">
-		<img src="https://komarev.com/ghpvc/?username=breladetm&label=Profile%20views&color=0e75b6&style=flat" alt="breladetm" />
-	</a>
-	<a href="https://github.com/breladetm">
 		<img src="https://img.shields.io/github/followers/breladetm?label=Followers" alt="breladetm" />
 	</a>
 </p>
