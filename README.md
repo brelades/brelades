@@ -36,9 +36,6 @@ Hi, I'm Vin!
 </p>
 </br>
 
-
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-
 <br/>
 <summary><b>⚡ Vin's Stats</b></summary>
 <br/>
