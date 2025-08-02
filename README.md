@@ -70,8 +70,8 @@
 ### 🧭 Where Else You Can Find Me
 
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">Discord</a> •
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">Twitter</a> •
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank">Spotify</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://discord.com/users/1086281889716912259" target="_blank">Discord</a> •
+  <a href="https://twitter.com/itsbrelade" target="_blank">Twitter</a> •
+  <a href="https://open.spotify.com/user/31m47c7mthuhd2jzx2w5rdgque6q" target="_blank">Spotify</a> •
+  <a href="mailto:mail.heartarts@gmail.com">Email</a>
 </p>
