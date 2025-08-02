@@ -19,16 +19,28 @@
 
 ---
 
-### 👨‍💻 Programming Languages
+### 🎯 Currently Focused On
+- Building cool bots using `Discord.js`
+- Learning TypeScript and Next.js
+- Exploring AI APIs and automation tools
+- Balancing coding with surfing 🏄‍♂️
+
+---
+
+### 🤖 My Tech Stack
 
 <p align="center">
-  <a href="https://github.com/brelades">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
-  <a href="https://github.com/brelades">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,discord,git,vscode" alt="tech stack" />
 </p>
+
+---
+
+### 🧠 Fun Facts About Me
+
+- 🩺 I work in healthcare but code like I was born for it  
+- 🏄‍♂️ I surf IRL and ride the JavaScript wave online  
+- 🎵 I collect vinyl records and use code to organize them  
+- ☕ I take my coffee as seriously as my APIs  
 
 ---
 
@@ -47,7 +59,35 @@
 
 ---
 
+### 🏆 GitHub Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brelades&theme=onedark&margin-w=10&no-frame=true" alt="trophies" />
+</p>
+
+---
+
+### 🧭 Where Else You Can Find Me
+
+<p align="center">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">Discord</a> •
+  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">Twitter</a> •
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank">Spotify</a> •
+  <a href="mailto:your@email.com">Email</a>
+</p>
+
+vin@brelades:~$ whoami
+A developer who can write both prescriptions and production-ready code.
+
+javascript
+Copy
+Edit
+
+---
+
 <p align="center">
   <a href="https://github.com/brelades">brelades</a><br/>
-  <sub><i>Last Edited on: 02/08/2025</i></sub>
+  <sub><i>Last Edited on: 16/04/2025</i></sub>
 </p>
+### 🕹️ Terminal Vibes
+
