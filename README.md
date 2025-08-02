@@ -75,19 +75,3 @@
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank">Spotify</a> •
   <a href="mailto:your@email.com">Email</a>
 </p>
-
-vin@brelades:~$ whoami
-A developer who can write both prescriptions and production-ready code.
-
-javascript
-Copy
-Edit
-
----
-
-<p align="center">
-  <a href="https://github.com/brelades">brelades</a><br/>
-  <sub><i>Last Edited on: 16/04/2025</i></sub>
-</p>
-### 🕹️ Terminal Vibes
-
