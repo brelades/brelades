@@ -6,7 +6,7 @@ Hi, I'm Vin!
 </h1>
 <p align="center">
 	<a href="https://github.com/brelades">
-		<img src="https://img.shields.io/github/followers/brelades?label=Followers" alt="breladetm" />
+		<img src="https://img.shields.io/github/followers/brelades?label=Followers" alt="brelades" />
 	</a>
 </p>
 <br/>
