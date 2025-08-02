@@ -16,8 +16,6 @@ Hi, I'm Vin!
 	</a>
 </p>
 
-## 🛠️ My Favorite Tools
-
 ### 👨‍💻 Programming Languages
 
 <p>
