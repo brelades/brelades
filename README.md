@@ -12,7 +12,7 @@ Hi, I'm Vin!
 <br/>
 <p align="center">
 	<a href="https://github.com/brelades">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Surfer,Music%20Lover,Healthcare%20Assistant&center=true&width=600&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Surfer, Music%20Lover, Healthcare%20Assistant&center=true&width=600&height=45">
 	</a>
 </p>
 
