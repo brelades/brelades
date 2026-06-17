@@ -54,7 +54,7 @@ I enjoy working across the JavaScript ecosystem and I’m currently deepening my
 
 ### Projects
 
-- 🌐 [Angels Assistant Dashboard](https://angels-assistant.github.io/dashboard/) — A custom-built web dashboard focused on structured UI workflows and assistant-style automation tools.
+- 🌐 [Angels Assistant Dashboard](https://angels-assistant.github.io/dashboard/) — A custom-built web dashboard focused on structured UI.
 
 ---
 
