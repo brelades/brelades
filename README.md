@@ -71,11 +71,9 @@ I enjoy working across the JavaScript ecosystem and I’m currently deepening my
 
 ---
 
-### Links
+### Connect
 
-<p align="center">
-  <a href="https://discord.com/users/1468027747866513479">Discord</a> •
-  <a href="https://twitter.com/itsbrelade">Twitter</a> •
-  <a href="https://open.spotify.com/user/31m47c7mthuhd2jzx2w5rdgque6q">Spotify</a> •
-  <a href="mailto:mail.heartarts@gmail.com">Email</a>
-</p>
+- 💬 Discord — <a href="https://discord.com/users/1086281889716912259">Message me</a>  
+- 🐦 Twitter — <a href="https://twitter.com/itsbrelade">Follow</a>  
+- 🎧 Spotify — <a href="https://open.spotify.com/user/31m47c7mthuhd2jzx2w5rdgque6q">Listen</a>  
+- 📩 Email — <a href="mailto:mail.heartarts@gmail.com">Reach out</a>
