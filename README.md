@@ -1,77 +1,75 @@
 <h1 align="center">
-  Hi, I'm Vin!  
-  <a href="https://github.com/brelades" target="_self">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Hi, I'm Vin
+  <a href="https://github.com/brelades">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
   </a>
 </h1>
 
 <p align="center">
   <a href="https://github.com/brelades">
-    <img src="https://img.shields.io/github/followers/brelades?label=Followers" alt="brelades" />
+    <img src="https://img.shields.io/github/followers/brelades?label=Followers&style=flat-square" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/brelades">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Surfer,%20Music%20Lover,%20Healthcare%20Assistant&center=true&width=600&height=45&speed=50&loop=1">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Builder%20of%20bots%20and%20automation%20tools;JavaScript%20%7C%20TypeScript%20%7C%20Node.js;Always%20learning%20something%20new&center=true&width=600&height=45&speed=45">
 </p>
 
 ---
 
-### 🎯 Currently Focused On
-- Building cool bots using `Discord.js`
-- Learning TypeScript and Next.js
-- Exploring AI APIs and automation tools
-- Balancing coding with surfing 🏄‍♂️
+### About Me
+
+I build bots, automation tools, and web apps with a focus on clean architecture and practical use cases.  
+Outside of coding, I spend time surfing, collecting vinyl, and exploring music.
+
+I enjoy working across the JavaScript ecosystem and I’m currently deepening my skills in TypeScript and modern backend tooling.
 
 ---
 
-### 🤖 My Tech Stack
+### Current Focus
+
+- Discord bots and automation systems using `Discord.js`
+- TypeScript + modern Node.js patterns
+- Next.js and full-stack development
+- AI APIs and workflow automation
+
+---
+
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,discord,git,vscode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,discord,git,vscode,nextjs" />
 </p>
 
 ---
 
-### 🧠 Fun Facts About Me
+### Interests
 
-- 🩺 I work in healthcare but code like I was born for it  
-- 🏄‍♂️ I surf IRL and ride the JavaScript wave online  
-- 🎵 I collect vinyl records and use code to organize them  
-- ☕ I take my coffee as seriously as my APIs  
+- Surfing and ocean culture 🏄‍♂️  
+- Music production and vinyl collecting 🎵  
+- Building tools that remove repetitive work  
+- Clean UI/UX and developer experience  
 
 ---
 
-### ⚡ Vin's Stats
+### GitHub Overview
 
 <details>
-  <summary><b>Click to Expand GitHub Stats</b></summary>
+  <summary><b>Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/brelades">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=brelades&show_icons=true" alt="GitHub Stats" />
-      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=brelades" alt="GitHub Streak" />
-    </a>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=brelades&show_icons=true&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=brelades&hide_border=true" />
   </p>
 </details>
 
 ---
 
-### 🏆 GitHub Trophy Wall
+### Links
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brelades&theme=onedark&margin-w=10&no-frame=true" alt="trophies" />
-</p>
-
----
-
-### 🧭 Where Else You Can Find Me
-
-<p align="center">
-  <a href="https://discord.com/users/1086281889716912259" target="_blank">Discord</a> •
-  <a href="https://twitter.com/itsbrelade" target="_blank">Twitter</a> •
-  <a href="https://open.spotify.com/user/31m47c7mthuhd2jzx2w5rdgque6q" target="_blank">Spotify</a> •
+  <a href="https://discord.com/users/1086281889716912259">Discord</a> •
+  <a href="https://twitter.com/itsbrelade">Twitter</a> •
+  <a href="https://open.spotify.com/user/31m47c7mthuhd2jzx2w5rdgque6q">Spotify</a> •
   <a href="mailto:mail.heartarts@gmail.com">Email</a>
 </p>
