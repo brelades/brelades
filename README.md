@@ -1,79 +1,89 @@
-<h1 align="center">
-  Hi, I'm Vin
+<h1 align="center">Vin</h1>
+
+<p align="center">
+  <b>Builder of bots, automation systems, and web tools</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+%7C+TypeScript+%7C+Node.js;Discord+bots+%26+automation;Clean+engineering+%26+practical+tools&center=true&width=520&height=45&speed=45">
+</p>
+
+<p align="center">
   <a href="https://github.com/brelades">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+    <img src="https://img.shields.io/github/followers/brelades?style=flat-square&label=Followers" />
   </a>
-</h1>
-
-<p align="center">
   <a href="https://github.com/brelades">
-    <img src="https://img.shields.io/github/followers/brelades?label=Followers&style=flat-square" />
+    <img src="https://img.shields.io/github/stars/brelades?style=flat-square&label=Stars" />
   </a>
 </p>
 
+---
+
+## Overview
+
+I design and build automation tools, Discord bots, and web applications with a focus on clarity, maintainability, and real-world utility.
+
+Outside of engineering, I spend time surfing and exploring music through vinyl collecting and curation.
+
+---
+
+## What I Work On
+
+- Discord bot systems and automation pipelines (`Discord.js`)
+- Backend development with Node.js + TypeScript
+- Next.js applications and modern full-stack architecture
+- API integration, tooling, and workflow automation
+
+---
+
+## Stack
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Builder%20of%20bots%20and%20automation%20tools;JavaScript%20%7C%20TypeScript%20%7C%20Node.js;Always%20learning%20something%20new&center=true&width=600&height=45&speed=45">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,nextjs,discord,git,vscode" />
 </p>
 
 ---
 
-### About Me
+## Selected Work
 
-I build bots, automation tools, and web apps with a focus on clean architecture and practical use cases.  
-Outside of coding, I spend time surfing, collecting vinyl, and exploring music.
+### Angels Assistant Dashboard  
+A structured web dashboard for managing assistant workflows and UI components.
 
-I enjoy working across the JavaScript ecosystem and I’m currently deepening my skills in TypeScript and modern backend tooling.
-
----
-
-### Current Focus
-
-- Discord bots and automation systems using `Discord.js`
-- TypeScript + modern Node.js patterns
-- Next.js and full-stack development
-- AI APIs and workflow automation
+→ https://angels-assistant.github.io/dashboard/
 
 ---
 
-### Tech Stack
+## Focus Areas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,discord,git,vscode,nextjs" />
-</p>
-
----
-
-### Interests
-
-- Surfing and ocean culture 🏄‍♂️  
-- Music production and vinyl collecting 🎵  
+- System design for small-to-medium automation tools  
+- Developer experience and maintainable codebases  
+- UI simplicity with functional architecture  
 - Building tools that remove repetitive work  
-- Clean UI/UX and developer experience  
 
 ---
 
-### Projects
-
-- 🌐 [Angels Assistant Dashboard](https://angels-assistant.github.io/dashboard/) — A custom-built web dashboard focused on structured UI.
-
----
-
-### GitHub Overview
+## GitHub Activity
 
 <details>
-  <summary><b>Stats</b></summary>
+  <summary><b>View Stats</b></summary>
   <br/>
+
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=brelades&show_icons=true&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=brelades&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brelades&show_icons=true&hide_border=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=brelades&hide_border=true" />
   </p>
 </details>
 
 ---
 
-### Connect
+## Connect
 
-- 💬 Discord — <a href="https://discord.com/users/1086281889716912259">Message me</a>  
-- 🐦 Twitter — <a href="https://twitter.com/itsbrelade">Follow</a>  
-- 🎧 Spotify — <a href="https://open.spotify.com/user/31m47c7mthuhd2jzx2w5rdgque6q">Listen</a>  
-- 📩 Email — <a href="mailto:mail.heartarts@gmail.com">Reach out</a>
+<p align="center">
+  <a href="https://discord.com/users/1468027747866513479">Discord</a>
+  ·
+  <a href="https://twitter.com/itsbrelade">Twitter</a>
+  ·
+  <a href="https://open.spotify.com/user/31m47c7mthuhd2jzx2w5rdgque6q">Spotify</a>
+  ·
+  <a href="mailto:mail.heartarts@gmail.com">Email</a>
+</p>
