@@ -44,15 +44,6 @@ Outside of engineering, I spend time surfing and exploring music through vinyl c
 
 ---
 
-## Selected Work
-
-### Angels Assistant Dashboard  
-A structured web dashboard for managing assistant workflows and UI components.
-
-→ https://angels-assistant.github.io/dashboard/
-
----
-
 ## Focus Areas
 
 - System design for small-to-medium automation tools  
